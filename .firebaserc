@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fielddayprototype"
+  },
+  "targets": {
+    "fielddayprototype": {
+      "hosting": {
+        "jlnorma4": [
+          "FieldDayPrototype"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
